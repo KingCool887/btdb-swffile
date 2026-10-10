@@ -11,6 +11,7 @@ package abilities
       public function SpikeStorm()
       {
          super();
+      }
       
       override public function execute(param1:Tower, param2:AbilityDef) : void
       {
