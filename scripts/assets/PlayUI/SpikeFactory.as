@@ -1,0 +1,15 @@
+package assets.PlayUI
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol2479")]
+   public dynamic class SpikeFactory extends MovieClip
+   {
+      
+      public function SpikeFactory()
+      {
+         super();
+      }
+   }
+}
+

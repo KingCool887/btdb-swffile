@@ -1,0 +1,15 @@
+package assets.PlayUI
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol2434")]
+   public dynamic class GlueMonkey extends MovieClip
+   {
+      
+      public function GlueMonkey()
+      {
+         super();
+      }
+   }
+}
+

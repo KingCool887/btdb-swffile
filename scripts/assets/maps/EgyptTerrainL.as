@@ -1,0 +1,21 @@
+package assets.maps
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol4382")]
+   public dynamic class EgyptTerrainL extends MovieClip
+   {
+      
+      public var deadZone:MovieClip;
+      
+      public var track:MovieClip;
+      
+      public var water:MovieClip;
+      
+      public function EgyptTerrainL()
+      {
+         super();
+      }
+   }
+}
+

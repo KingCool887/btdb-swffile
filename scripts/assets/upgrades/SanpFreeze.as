@@ -1,0 +1,15 @@
+package assets.upgrades
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol111")]
+   public dynamic class SanpFreeze extends MovieClip
+   {
+      
+      public function SanpFreeze()
+      {
+         super();
+      }
+   }
+}
+
